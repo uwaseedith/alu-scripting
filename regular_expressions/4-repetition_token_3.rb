@@ -1,1 +1,2 @@
-4-repetition_token_3.rb
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/hbt*n/).join
