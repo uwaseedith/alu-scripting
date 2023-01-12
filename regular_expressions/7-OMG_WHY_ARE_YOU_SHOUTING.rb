@@ -1,1 +1,2 @@
-7-OMG_WHY_ARE_YOU_SHOUTING.rb
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/[A-Z]/).join
